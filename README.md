@@ -1,6 +1,6 @@
-# Hi 👋, I'm Italo Bresciani
+# Hi, I'm Italo Bresciani
  **Data Science Student**
-🇧🇷 Brazil
+- Brazil
 
 I am a Data Science student passionate about **Machine Learning, Data engineering, and Software Development**. I enjoy building practical solutions, exploring intelligent systems, and applying data-driven approaches to solve real-world problems.
 
