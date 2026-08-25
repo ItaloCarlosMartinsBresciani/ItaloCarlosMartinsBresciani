@@ -40,13 +40,5 @@ I also have a strong foundation in statistics, which supports my work in data an
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge\&logo=latex)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItaloCarlosMartinsBresciani&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCarlosMartinsBresciani&layout=compact&theme=tokyonight" />
-</p>
 
 
